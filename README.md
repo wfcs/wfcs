@@ -15,8 +15,8 @@ I'm currently improving my knowledge of SQL, specifically SQL Server.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wfcs93/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipesilva@fluxbi.com.br)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wfcs&show_icons=true&theme=radical)
-![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wfcs&layout=compact&theme=radical)
+![EstatísticasGitHub](https://github-readme-stats.vercel.app/api?username=wfcs&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wfcs&theme=dark)
 
 > 
 > "Transforming data into strategic decisions is not just a job, it's a passion."
