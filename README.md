@@ -13,6 +13,9 @@ Atualmente estou aprimorando meus conhecimentos em SQL, especificamente no SQL S
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wfcs93/)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white)](mailto:felipesilva@fluxbi.com.br)
 
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=wfcs&show_icons=true&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=wfcs&layout=compact&theme=radical)
+
 > 
 > "Transformar dados em decisões estratégicas não é só um trabalho, é uma paixão."
 > 
