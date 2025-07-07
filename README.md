@@ -32,4 +32,4 @@ I'm currently improving my knowledge of SQL, specifically SQL Server.
 
 ## 🏢 **Companies where I gained experience:**
 
-<img src="https://github.com/user-attachments/assets/06aaca93-9117-49fe-a97e-3214811e4257" width="15%" height="15%" /> <img src="https://github.com/user-attachments/assets/edf8bc58-df8a-472b-8f7b-fd3f5bed6d0e" width="15%" height="15%" /> <img src="https://github.com/user-attachments/assets/4328bd93-54f3-4afa-b12a-538364132792" width="15%" height="15%" /> <img src="https://github.com/user-attachments/assets/1cd4a2f6-dce0-41bc-b0bf-c1902abde9c8" width="15%" height="15%" />
+<img src="https://github.com/user-attachments/assets/06aaca93-9117-49fe-a97e-3214811e4257" width="15%" height="40%" /> <img src="https://github.com/user-attachments/assets/edf8bc58-df8a-472b-8f7b-fd3f5bed6d0e" width="15%" height="40%" /> <img src="https://github.com/user-attachments/assets/4328bd93-54f3-4afa-b12a-538364132792" width="15%" height="40%" /> <img src="https://github.com/user-attachments/assets/1cd4a2f6-dce0-41bc-b0bf-c1902abde9c8" width="15%" height="40%" />
